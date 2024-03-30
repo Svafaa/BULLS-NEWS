@@ -1,0 +1,158 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+header
+{
+    background-color: #222831;
+    border-bottom: 4px solid rgb(181, 0, 0);
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+#div1
+{
+    display: flex;
+    align-items: center; 
+}
+#logoBulls
+{
+    height: 180px;
+    padding-left:  32px;
+    padding-bottom: 12px;
+}
+
+#BN
+{
+    padding-left: 48px;
+    font-size: 64px;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+#principal
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+#logobulls
+{
+    height: 132px;
+}
+
+#textoprincipal
+{
+    padding: 24px;
+    font-size: 24px;
+}
+
+p
+{
+    padding: 24px 32px 24px 32px;
+}
+
+#bnprincipal
+{
+    padding-top: 24px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#historia
+{
+    background-color: #CE1141;
+    display: flex;
+    flex-direction: wrap;
+    padding: 24px;
+    text-align: center;
+}
+#blfinal
+{
+    height: 800px;
+}
+
+#txthist1
+{
+    padding: 32px;
+    font-size: 24px;
+}
+
+#ultitulos
+{
+    padding: 32px;
+    font-size: 24px
+}
+
+li
+{
+    padding-bottom: 32px;
+}
+
+#txthist2
+{
+    padding: 32px;
+    font-size: 24px;
+}
+
+#historia2
+{
+    padding-top: 24px;
+    background-color: #f5f5f5;   
+    display: flex;
+    flex-direction: wrap;
+    padding: 24px;
+}
+footer
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#222831;
+    border-top: 4px solid rgb(181, 0, 0);
+    padding-bottom: 12px;
+    
+}
+
+#formfooter
+{
+    display: flex;
+    flex-direction: column;
+    padding-right: 80px;
+}
+
+#ftext
+{
+    padding-top: 24px;
+    color: #f5f5f5;
+    font-size: 18px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 64px;
+    text-align: center;
+}
+
+label
+{
+    padding: 8px;
+    color: #f5f5f5;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#fdiv
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
